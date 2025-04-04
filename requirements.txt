@@ -1,0 +1,6 @@
+numpy
+matplotlib
+scikit-learn
+Pillow        # For image processing
+PyPDF2        # For PDF extraction
+python-docx   # For Word document extraction
